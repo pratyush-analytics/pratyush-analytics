@@ -52,11 +52,6 @@ Welcome to my GitHub! I am passionate about using **data, finance, and technolog
 - Investment Case Studies
 - Portfolio Risk Understanding
 
-### 🤖 AI & Automation
-- AI Resume Generator Concept
-- Data Driven Decision Tools
-- Automation Experiments
-
 ---
 
 ## 📊 GitHub Stats
