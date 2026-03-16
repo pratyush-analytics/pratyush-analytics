@@ -1,4 +1,20 @@
-<h1 align="center">📊 Pratyush Analytics</h1>
+<h1 align="center">
+<span style="font-size:55px; font-family:Poppins, Arial, sans-serif; background: linear-gradient(90deg,#4F46E5,#00C2FF,#22C55E); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+🔍 Pratyush Analytics
+</span>
+</h1>
+
+<p align="center">
+📈 Data Analytics • 💹 Financial Insights • 🧠 Business Intelligence • 📊 Strategy
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&color=00C2FF&center=true&vCenter=true&width=650&lines=Welcome+to+Pratyush+Analytics;Turning+Data+into+Smart+Decisions;Finance+%7C+Analytics+%7C+Strategy;Insights+Driven+by+Data">
+</p>
+
+<p align="center">
+⭐ Exploring Data | 📊 Building Insights | 🚀 Growing with Analytics
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Commerce+Student;Data+Analytics+Learner;Accounting+Software+Explorer;Future+FinTech+Builder&center=true&width=500&height=45">
