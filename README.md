@@ -184,7 +184,7 @@ Pwc
 </td>
 
 <td align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIP.CMx6EuqDxfMSFQjVBmjFuwAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" width="140"><br>
+<img src="https://cdn.mos.cms.futurecdn.net/8dtnDnJFr5tWMEX8cQQ9rU.jpg" width="140"><br>
 KPMG
 </td>
 
