@@ -165,7 +165,7 @@ Deloitte
 </td>
 
 <td align="center">
-<img src="https://www.mckinsey.com/~/media/images/global/seoimageplaceholder.jpg" width="140"><br>
+<img src="https://dymlcaxjpm5z9.cloudfront.net/wp-content/uploads/2024/12/14192853/McKinsey-Co-14-December-2024.jpg" width="140"><br>
 McKinsey & Company
 </td>
 
