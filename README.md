@@ -1,6 +1,6 @@
 <h1 align="center">
 <span style="font-size:55px; font-family:Poppins, Arial, sans-serif; background: linear-gradient(90deg,#4F46E5,#00C2FF,#22C55E); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-🔍 Pratyush Analytics
+🔍 Pratyush Analytic
 </span>
 </h1>
 
