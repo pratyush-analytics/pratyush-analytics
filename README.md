@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-📈 Data Analytics • 💹 Financial Insights • 🧠 Business Intelligence • 📊 
+📈 Data Analytics • 💹 Financial Insights • 🧠 Business Intelligence • 📊 strategy
 </p>
 
 <p align="center">
